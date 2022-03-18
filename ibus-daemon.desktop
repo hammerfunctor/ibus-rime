@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=IBus
+GenericName=IBus
+Comment=IBus daemon
+Exec=/usr/bin/ibus-daemon -xrd
+Terminal=true
+Type=Application
+Icon=IBus
+Categories=IBus
+StartupNotify=false
