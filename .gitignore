@@ -2,3 +2,4 @@ opencc/
 *.userdb/
 sync/
 build/
+rime/user.yaml
