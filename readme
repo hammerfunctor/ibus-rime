@@ -1,3 +1,5 @@
 # Rime
 
 Rime configurations for IBus
+
+For ArchLinux: `sudo pacman -S --needed ibus-rime librime-data rime-emoji` is enough.
